@@ -1,5 +1,5 @@
 package_sets:
-  - github: dfki-ric/ros2-package-set
+  - github: dfki-ric/ros2-package_set
 
 layout:
   - planning/ugv_nav4d_ros2
