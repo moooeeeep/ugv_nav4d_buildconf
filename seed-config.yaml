@@ -1,4 +1,3 @@
----
 prefer_indep_over_os_packages: false
 osdeps_mode: all
 reused_autoproj_installations: []
@@ -18,3 +17,6 @@ USE_PYTHON: true
 syskit_use_bundles: true
 separate_prefixes: true
 python_executable: "/usr/bin/python3"
+ROS_DISTRO: humble
+ROS_OSDEP_FORCE_UPDATE: false
+COLCON_USE_SYMLINK_INSTALL: false
